@@ -99,9 +99,6 @@ Integration with job portals or HR systems
 
 Resume quality scoring
 
-📄 License
-This project is licensed under the MIT License.
-
 🙋‍♀️ Author
 Palak Yadav
 Feel free to connect on GitHub or reach out for suggestions and collaborations!
